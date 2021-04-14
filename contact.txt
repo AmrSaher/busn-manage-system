@@ -1,0 +1,43 @@
+login:
+	-username
+	-password
+	-user or admin
+
+products:
+	-name
+	-price
+	-code
+	-date added
+	-quantity
+	-category
+
+workers:
+	-name
+	-age
+	-phone
+	-id
+	-salary
+	-job
+
+cashier:
+	-add product
+	-delete product
+	-edit product
+	-make a bill
+	-print bill
+
+admin panel:
+	-edit,add,show and delete category
+	-edit,add,show and delete products
+	-edit,add,show and delete workers
+	-open history
+	-edit,add,show and delete users:
+		-enter username and password
+	-dashboard
+
+store data:
+	-name
+	-address
+	-the owner of store
+	-phone
+	-the owner phone

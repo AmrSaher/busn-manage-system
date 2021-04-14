@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>cashier-machine.png</file>
+    <file>dashboard.png</file>
+    <file>employee.png</file>
+    <file>gift.png</file>
+    <file>store.png</file>
+    <file>user.png</file>
+    <file>admin.png</file>
+    <file>category.png</file>
+    <file>history.png</file>
+    <file>reset.png</file>
+  </qresource>
+</RCC>
